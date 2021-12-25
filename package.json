@@ -1,0 +1,15 @@
+{
+  "name": "node_dl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easydl": "^1.0.1",
+    "rapid-downloader": "^1.2.6"
+  }
+}
